@@ -1,8 +1,11 @@
-# Quidditch 
+## Quidditch Game
 
-## Final release: version 13
+# Final release: v13
 
- Based off the game Quidditch from the 'Harry Potter' movies. You have control over 2 charaters (Harry and Hermione), playing for the Gryffindor team (red team).
+![Game Image](<gamescreenshot.png>)
+
+ Based off the game Quidditch from 'Harry Potter' movies. You play 2 charaters (Harry and Hermione
+ eho play for the Gryffindor team (red team).
  
  (Player 1) Harry's aim is to prevent the green balls (Slytherin team balls) from going into the
  goals but allow the red balls (Gryffindor team balls).
@@ -10,10 +13,10 @@
  (Player 2) Hermione's aim is to prevent the dementors from hitting Harry by shooting spells to push
  them up screen.
  
- Once Harry has lost all of his life points the game is over the final scores are given.
+ Once Harry has lost all his life points the game is over the final scores are given.
  
  Keystrokes/Mouse:
- The 'w' (up), 's' (down), 'a' (left) & 'd' (right) are used for first Player class
+ The'w' (up), 's' (down), 'a' (left) & 'd' (right) are used for first Player class
  (Harry) allowing it to move anywhere on the screen.
  
  LEFT and RIGHT cursor key used to move second Player class (Player 2) from left
@@ -23,7 +26,7 @@
  Link to your development Blog on Blogger:
  https://katemol.blogspot.com/
  
- Link to Video runthrough on YouTube:
+ Link to Video on YouTube:
  https://www.youtube.com/watch?v=rppThgB1Qxg
  
  
