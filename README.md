@@ -1,6 +1,6 @@
-## Quidditch Game
+# Quidditch Game
 
-# Final release: v13
+## Final release: v13
 
 ![Game Image](<gamescreenshot.png>)
 
